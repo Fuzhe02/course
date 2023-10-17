@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-int mien()
+int main()
 {
-    cout<<"hello world";
+    cout<<"hello world\n";
     return 0;
 }
